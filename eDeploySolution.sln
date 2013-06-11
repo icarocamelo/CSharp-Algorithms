@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplesSolution", "eDeploySolution\MultiplesSolution.csproj", "{FA953113-FF22-4372-BB25-D96675B3109A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfSquares", "SumOfSquares\SumOfSquares.csproj", "{85BFDADA-8FE0-43D2-9AE1-EB7228FFE39F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{65B437AB-33F2-4379-80F8-BCB3DA38CE0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tree", "Tree\Tree.csproj", "{E8D977EC-B570-458B-9C2A-BC3BFF5413F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionAccumulate", "FunctionAccumulate\FunctionAccumulate.csproj", "{4C555B77-381E-4A66-A554-B7F99488184F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C555B77-381E-4A66-A554-B7F99488184F}.Debug|x86.ActiveCfg = Debug|x86
+		{4C555B77-381E-4A66-A554-B7F99488184F}.Debug|x86.Build.0 = Debug|x86
+		{4C555B77-381E-4A66-A554-B7F99488184F}.Default|Any CPU.ActiveCfg = Debug|x86
+		{4C555B77-381E-4A66-A554-B7F99488184F}.Default|Any CPU.Build.0 = Debug|x86
+		{4C555B77-381E-4A66-A554-B7F99488184F}.Release|x86.ActiveCfg = Release|x86
+		{4C555B77-381E-4A66-A554-B7F99488184F}.Release|x86.Build.0 = Release|x86
+		{65B437AB-33F2-4379-80F8-BCB3DA38CE0B}.Debug|x86.ActiveCfg = Debug|x86
+		{65B437AB-33F2-4379-80F8-BCB3DA38CE0B}.Debug|x86.Build.0 = Debug|x86
+		{65B437AB-33F2-4379-80F8-BCB3DA38CE0B}.Default|Any CPU.ActiveCfg = Debug|x86
+		{65B437AB-33F2-4379-80F8-BCB3DA38CE0B}.Default|Any CPU.Build.0 = Debug|x86
+		{65B437AB-33F2-4379-80F8-BCB3DA38CE0B}.Release|x86.ActiveCfg = Release|x86
+		{65B437AB-33F2-4379-80F8-BCB3DA38CE0B}.Release|x86.Build.0 = Release|x86
+		{85BFDADA-8FE0-43D2-9AE1-EB7228FFE39F}.Debug|x86.ActiveCfg = Debug|x86
+		{85BFDADA-8FE0-43D2-9AE1-EB7228FFE39F}.Debug|x86.Build.0 = Debug|x86
+		{85BFDADA-8FE0-43D2-9AE1-EB7228FFE39F}.Default|Any CPU.ActiveCfg = Debug|x86
+		{85BFDADA-8FE0-43D2-9AE1-EB7228FFE39F}.Default|Any CPU.Build.0 = Debug|x86
+		{85BFDADA-8FE0-43D2-9AE1-EB7228FFE39F}.Release|x86.ActiveCfg = Release|x86
+		{85BFDADA-8FE0-43D2-9AE1-EB7228FFE39F}.Release|x86.Build.0 = Release|x86
+		{E8D977EC-B570-458B-9C2A-BC3BFF5413F5}.Debug|x86.ActiveCfg = Debug|x86
+		{E8D977EC-B570-458B-9C2A-BC3BFF5413F5}.Debug|x86.Build.0 = Debug|x86
+		{E8D977EC-B570-458B-9C2A-BC3BFF5413F5}.Default|Any CPU.ActiveCfg = Debug|x86
+		{E8D977EC-B570-458B-9C2A-BC3BFF5413F5}.Default|Any CPU.Build.0 = Debug|x86
+		{E8D977EC-B570-458B-9C2A-BC3BFF5413F5}.Release|x86.ActiveCfg = Release|x86
+		{E8D977EC-B570-458B-9C2A-BC3BFF5413F5}.Release|x86.Build.0 = Release|x86
+		{FA953113-FF22-4372-BB25-D96675B3109A}.Debug|x86.ActiveCfg = Debug|x86
+		{FA953113-FF22-4372-BB25-D96675B3109A}.Debug|x86.Build.0 = Debug|x86
+		{FA953113-FF22-4372-BB25-D96675B3109A}.Release|x86.ActiveCfg = Release|x86
+		{FA953113-FF22-4372-BB25-D96675B3109A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = FunctionAccumulate\FunctionAccumulate.csproj
+	EndGlobalSection
+EndGlobal
